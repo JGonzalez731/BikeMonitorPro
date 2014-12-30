@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:id="@+id/set_radius"
+        android:title="Set Radius"
+        android:orderInCategory="1"/>
+    <item
+        android:id="@+id/save_data"
+        android:title="Save Data"
+        android:orderInCategory="2"/>
+</menu>
